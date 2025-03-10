@@ -48,10 +48,11 @@ If you want to contribute:
 - Implement advanced motion planning algorithms.
 - Optimize PID control for smoother autonomous navigation.
 - Develop a real-time strategy selection interface.
-
+- Using sensors for better autonomous motion activities.
 ## 📧 Contact
 For inquiries or collaborations, reach out to the **Addis Ababa University VEX Robotics Team**.
 
 ---
+
 **🚀 Happy Coding & Best of Luck in Competitions!**
 
