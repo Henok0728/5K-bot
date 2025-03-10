@@ -24,7 +24,7 @@ This repository includes the following code modules:
 ## 🚀 Getting Started
 1. Clone the repository using the following command:
    ```bash
-   git clone https://github.com/your-repo-link/vex-v5-robotics.git
+   git clone https://github.com/Haymisey/5K-bot.git
    ```
 2. Open **VEXcode Blocks** and import the respective program file.
 3. Deploy the code to your **VEX V5 Brain**.
